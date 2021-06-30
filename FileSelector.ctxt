@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=FileSelector
+comment0.text=\r\n\ This\ utility\ class\ creates\ a\ thread\ safe\ file\ dialog\ box\ for\ loading\ and\r\n\ saving\ files.\r\n\ \r\n\ @author\ Duke\ Software\ Team\r\n\ \r\n\ \ \ \ \ \ \ \ \ This\ software\ is\ licensed\ with\ an\ Apache\ 2\ license,\ see\r\n\ \ \ \ \ \ \ \ \ http\://www.apache.org/licenses/LICENSE-2.0\ for\ details.\r\n
+comment1.params=
+comment1.target=java.io.File\ selectFile()
+comment1.text=\r\n\ Pops\ up\ a\ dialog\ box\ to\ select\ only\ one\ file.\r\n\ \r\n\ @return\r\n
+comment2.params=extensionAccepted
+comment2.target=java.io.File\ selectFile(java.lang.String[])
+comment2.text=\r\n\ Pops\ up\ a\ dialog\ box\ to\ select\ only\ one\ file\ with\ given\ extensions.\r\n
+comment3.params=
+comment3.target=java.io.File[]\ selectFiles()
+comment3.text=\r\n\ Pops\ up\ a\ dialog\ box\ to\ select\ multiple\ files.\r\n
+comment4.params=extensionAccepted
+comment4.target=java.io.File[]\ selectFiles(java.lang.String[])
+comment4.text=\r\n\ Pops\ up\ a\ dialog\ box\ to\ select\ multiple\ files\ with\ given\ extensions.\r\n\ @return\r\n
+comment5.params=
+comment5.target=java.io.File\ saveFile()
+comment5.text=\r\n\ Pops\ up\ a\ dialog\ box\ to\ save\ file\ with\ any\ extension.\r\n
+comment6.params=extensionAccepted
+comment6.target=java.io.File\ saveFile(java.lang.String[])
+comment6.text=\r\n\ Pops\ up\ a\ dialog\ box\ to\ save\ file\ with\ given\ extensions.\r\n
+comment7.params=extensionAccepted\ allowMultiple\ openForRead
+comment7.target=java.io.File[]\ selectFiles(java.lang.String[],\ boolean,\ boolean)
+comment8.params=
+comment8.target=void\ run()
+numComments=9
